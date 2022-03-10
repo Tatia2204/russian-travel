@@ -1,0 +1,19 @@
+.place__website {
+    max-width: 87%;
+    margin-top: 106px;
+    grid-area: website;
+}
+
+@media screen and (max-width: 768px) {
+    .place__website {
+        margin-top: 46px;
+        max-width: 92%;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place__website {
+        max-width: 90%;
+        margin: 0 16px 0;
+    }
+}
