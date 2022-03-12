@@ -29,3 +29,10 @@
         margin: 0 16px 64px;
     }
 }
+
+@media screen and (max-width: 285px) {
+    .photo-grid {
+        max-width: 100%;
+        margin: 0 0 54px;
+    }
+}

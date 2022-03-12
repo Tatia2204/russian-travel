@@ -29,7 +29,13 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 590px) {
+    .place {
+        min-height: 761px;
+    }
+}
+
+@media screen and (max-width: 395px) {
     .place {
         grid-template-columns: 100%;
         grid-template-areas:

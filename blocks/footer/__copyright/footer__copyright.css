@@ -14,12 +14,25 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 530px) {
+    .footer__copyright {
+        font-size: 1.5vw;
+        margin-top: -11px;
+    }
+}
+
+@media screen and (max-width: 395px) {
     .footer__copyright {
         line-height: 14px;
         margin-top: 48px;
         margin-bottom: 0;
         text-align: left;
-        font-size: 14px;
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .footer__copyright {
+        font-size: 4vw;
     }
 }

@@ -20,7 +20,14 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 590px) {
+    .place__title {
+        font-size: 7vw;
+        line-height: 40px;
+    }
+}
+
+@media screen and (max-width: 395px) {
     .place__title {
         max-width: 90%;
         font-size: 32px;

@@ -11,10 +11,18 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 590px) {
+    .place__text {
+        max-width: 91%;
+        font-size: 3vw;
+    }
+}
+
+@media screen and (max-width: 395px) {
     .place__text {
         max-width: 90%;
         margin-left: 16px;
         margin-right: 16px;
+        font-size: 5vw;
     }
 }

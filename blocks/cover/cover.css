@@ -12,6 +12,8 @@
     align-items: center;
     margin-right: 48px;
     margin-left: 48px;
+    text-decoration-line: none;
+    color: #FFFFFF;
 }
 
 .cover::before {
@@ -39,6 +41,13 @@
     }
 }
 
+@media screen and (max-width: 895px) {
+    .cover {
+        min-height: 560px;
+        background-size: 100% 560px;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .cover {
         min-height: 480px;
@@ -46,9 +55,17 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 590px) {
+    .cover {
+        min-height: 400px;
+        background-size: 100% 400px;
+    }
+}
+
+@media screen and (max-width: 395px) {
     .cover {
         max-height: 200px;
         min-height: 200px;
+        background-size: 100%;
     }
 }
