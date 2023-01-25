@@ -11,11 +11,11 @@
 При создании сайта использовались:
 *  HTML5;
 *  CSS3:
-  * Flexbox;
-  * Grid Layout;
-  * Positioning;
-  * Adaptive UI;
-  * Media Queries;
+   * Flexbox;
+   * Grid Layout;
+   * Positioning;
+   * Adaptive UI;
+   * Media Queries;
 *  Методология БЭМ;
 *  Вёрстка по макету в Figma.
 
