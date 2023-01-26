@@ -28,6 +28,10 @@
 
 * [Макет](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)
 
+### Чеклист Проектной работы:
+
+* [Чеклист](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-3/index.html)
+
 ### Ссылка на сайт:
 
 https://tatia2204.github.io/russian-travel/
